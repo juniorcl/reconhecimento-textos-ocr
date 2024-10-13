@@ -1,1 +1,1 @@
-# text-recognition-ocr
+# Reconhecimento de Textos com OCR
