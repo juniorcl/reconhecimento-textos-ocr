@@ -162,6 +162,4 @@ cython_debug/
 #.idea/
 
 # Todos os arquivos dentro de ./data
-data/*
-
 notebooks/tessdata/*
